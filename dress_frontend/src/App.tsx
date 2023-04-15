@@ -9,7 +9,6 @@ import { BrandDelete } from "./components/brands/BrandDelete";
 import { BrandDetails } from './components/brands/BrandDetails';
 import { UpdateBrand } from './components/brands/BrandsUpdate';
 import { BrandsFilter } from './components/brands/BrandsFilter';
-import { BrandDetails1 } from './components/brands/BrandDetails1';
 
 
 function App() {
